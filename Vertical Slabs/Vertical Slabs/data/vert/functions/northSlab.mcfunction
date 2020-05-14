@@ -1,0 +1,1 @@
+give @p minecraft:wolf_spawn_egg{display:{Name:'{"text":"Vertical Slab (north)"}'},EntityTag:{Tags:["slab"]}} 1
